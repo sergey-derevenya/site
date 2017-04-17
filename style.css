@@ -1,0 +1,128 @@
+body {
+    background-color: #e6e6e6;
+    font-size: 16px;
+}
+
+form {
+    font-family: sans-serif;
+    font-size: 15px;
+    
+    width: 500px;
+    margin: 0 auto;
+}
+
+fieldset {
+    background: #b0afd4;
+    border: 3px double #020546;
+    border-radius: 5px;
+    margin: 20px 0;
+    padding: 20px;
+    
+}
+
+legend {
+    background: #f09b66;
+    border-radius: 3px;
+    padding: 5px 8px;
+    color: #ffffff;
+}
+
+p {
+    color: hsl(30, 3%, 17%);
+    font-family: arial;
+    
+    
+    
+    
+}
+
+h1 {
+    color: #000;
+    font-family: calibri;
+    font-weight: bolder;
+    
+}
+
+h2 {
+    color: #038a9b;
+}
+
+h3 {
+    color: hsl(170, 52%,50%);
+    text-align: center
+}
+
+ul {
+    list-style: none;
+}
+
+hr {
+    
+    width: 100px;
+}
+
+table 
+{
+    border-collapse: collapse;
+}
+th,td {
+    border: 2px solid #909090;
+    padding: 5px 10px;
+}
+
+td {
+    
+    text-align: center;
+    color: #000;
+    padding: 5px 10px;
+}
+
+thead {
+    background: #87a9f5;
+    font-weight: bolder;
+}
+
+tfoot {
+    background: #e7f0a3;
+    font-weight: bolder;
+}
+
+
+
+.odd td {
+}
+
+.text-right {
+}
+
+
+
+
+
+caption {
+    font-family: monospace;
+    font-size: 20px ;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    text-decoration: underline;
+}
+
+.go_home {
+    display: inline-block;
+    padding: 5px 12px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-size: 20px;
+    border: 3px solid #ff0200; 
+    font-weight: bold;
+    color: #ff0200;
+    background: #444a6b;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    cursor: pointer;
+}
+
+

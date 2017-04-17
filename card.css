@@ -1,0 +1,75 @@
+body {
+    background: #0e5dc6;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+.card {
+    display: block;
+    margin: 0 auto;
+    
+    background: #343333;
+    border: 2px solid #ffffff;
+    font-size: 0.65rem;
+    font-family: verdana;
+    color: #ed7b08;
+    width: 20rem;
+    text-align: center;
+}
+.card-main__header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #fffff;
+    
+}
+.card-main__header .card-main__h1 {
+    font-size: 1.2rem; 
+    font-weight: normal;
+    
+}
+.card-main__header .card-main__span {
+    font-size: 0.7rem;
+}
+.card-main__info {
+    background: #4a4848;
+    padding: 10px;
+    text-align: left;
+    
+}
+
+.right {
+    text-align: right;
+}
+.card-main__info .item1 {
+    border-bottom: 2px solid #ffffff;
+    line-height: 1.2rem;
+}
+.card-main__info .item2 {
+    border-bottom: 1px solid #ffffff;
+    line-height: 1.2rem;
+}
+.card-main__info .item3 {
+    border-bottom: 1px solid #ffffff;
+    line-height: 1.2rem;
+}
+
+.total-info{
+    border-bottom:  2px solid #ffffff;
+/*    background: red;*/
+}
+.card-main__info table {
+    width: 100%;
+}
+.card-main__info tbody {
+}
+.card-main__info tr {
+}
+.card-main__info td:nth-child(even) {
+    text-align: right;
+}
+.card-main__info .ps {
+    text-align: center;
+    font-size: 0.5rem;
+    padding-top: 20px;
+}
+
